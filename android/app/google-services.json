@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162606938740",
+    "firebase_url": "https://mayom-app-93a61.firebaseio.com",
+    "project_id": "mayom-app-93a61",
+    "storage_bucket": "mayom-app-93a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162606938740:android:1efd2200483ced15",
+        "android_client_info": {
+          "package_name": "com.example.mayom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162606938740-532si4s6c9ljonu1jb9erhj3ep15hm72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayom_app",
+            "certificate_hash": "1f2ccbf0367660e9fd0e9a2c4d6eb7e074a7c8bb"
+          }
+        },
+        {
+          "client_id": "162606938740-mion2grg7ph9alpent1vg9rab6itkpl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztk0qn_6yYkbx_829pXmxfXLtJDftqU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162606938740-mion2grg7ph9alpent1vg9rab6itkpl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
